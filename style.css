@@ -1,0 +1,12 @@
+html{
+    font-size: 16px;
+}
+body{
+    background-color: #1d1942;
+    color: white;
+    margin: 10rem;
+}
+.city-weather{
+    text-align: center;
+    margin-top: 5rem;
+}
